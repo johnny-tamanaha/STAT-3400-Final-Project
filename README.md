@@ -7,8 +7,8 @@ Applications:
   1. Web Scraping
   
     usage_scrape.py -> scrape advanced and team statistics from basketball-reference.com
-    astats.csv -> scraped advanced stats
-    tstats.csv -> scraped team stats
+    astats.csv -> advanced stats
+    tstats.csv -> team stats
   2. Data Analysis
   
     usage_project.r -> regression analysis with usage dataset
